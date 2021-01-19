@@ -1,23 +1,31 @@
 {
   "pageName": "Home",
-  "children": [{
-    "id": 1,
-    "componentId": "section",
-    "props": {},
-    "children": [{
-        "id": 2,
-        "componentId": "button",
-        "props": {"text": "my first button"},
-        "children": []
-      }, {
-        "id": 3,
-        "componentId": "section",
-        "props": {},
-        "children": [{
-          "id": 4,
-          "props": {"text": "my second button"},
+  "children": [
+    {
+      "id": 1,
+      "componentId": "section",
+      "props": {},
+      "children": [
+        {
+          "id": 2,
+          "componentId": "button",
+          "props": { "text": "my first button" },
           "children": []
-        }]
-    }]
-  }]
+        },
+        {
+          "id": 3,
+          "componentId": "section",
+          "props": {},
+          "children": [
+            {
+              "id": 4,
+              "componentId": "button",
+              "props": { "text": "my second button" },
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
