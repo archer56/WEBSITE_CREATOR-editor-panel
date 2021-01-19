@@ -10,11 +10,11 @@
         "props": {"text": "my first button"},
         "children": []
       }, {
-        "id": 2,
+        "id": 3,
         "componentId": "section",
         "props": {},
         "children": [{
-          "id": 3,
+          "id": 4,
           "props": {"text": "my second button"},
           "children": []
         }]
