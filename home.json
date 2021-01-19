@@ -1,0 +1,9 @@
+{
+  "pageName": "Home",
+  "children": [{
+    "id": 1,
+    "component": "button",
+    "props": {},
+    "children": []
+  }]
+}
