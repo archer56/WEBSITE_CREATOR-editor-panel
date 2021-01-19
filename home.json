@@ -2,18 +2,22 @@
   "pageName": "Home",
   "children": [{
     "id": 1,
-    "component": "div",
+    "componentId": "section",
     "props": {},
     "children": [{
         "id": 2,
-        "component": "button",
-        "props": {},
-        "children": ["my first button"]
+        "componentId": "button",
+        "props": {"text": "my first button"},
+        "children": []
       }, {
         "id": 2,
-        "component": "button",
-        "props": {"data-test": "second-button"},
-        "children": ["my first button"]
+        "componentId": "section",
+        "props": {},
+        "children": [{
+          "id": 3,
+          "props": {"text": "my second button"},
+          "children": []
+        }]
     }]
   }]
 }
