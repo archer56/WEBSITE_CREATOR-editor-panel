@@ -7,13 +7,13 @@
     "children": [{
         "id": 2,
         "component": "button",
-        "props": {"value": "my first button"},
-        "children": []
+        "props": {},
+        "children": ["my first button"]
       }, {
         "id": 2,
         "component": "button",
-        "props": {"value": "my second button"},
-        "children": []
+        "props": {"data-test": "second-button"},
+        "children": ["my first button"]
     }]
   }]
 }
