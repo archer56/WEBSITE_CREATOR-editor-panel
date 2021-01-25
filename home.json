@@ -1,33 +1,36 @@
-[
-  {
-     "id":1,
-     "componentId":"section",
-     "props":{
-        
-     },
-     "layout":{
-        "x":4,
-        "y":0,
-        "width":8,
-        "height":10
-     },
-     "children":[
-        {
-           "id":3,
-           "componentId":"button",
-           "props":{
-              "text":"Button 1"
-           },
-           "layout":{
-              "x":2,
-              "y":0,
-              "width":2,
-              "height":3
-           },
-           "children":[
-              
-           ]
-        }
-     ]
-  }
-]
+{
+  "pageName": "Home",
+  "children": [
+    {
+       "id":1,
+       "componentId":"section",
+       "props":{
+          
+       },
+       "layout":{
+          "x":4,
+          "y":0,
+          "width":8,
+          "height":10
+       },
+       "children":[
+          {
+             "id":3,
+             "componentId":"button",
+             "props":{
+                "text":"Button 1"
+             },
+             "layout":{
+                "x":2,
+                "y":0,
+                "width":2,
+                "height":3
+             },
+             "children":[
+                
+             ]
+          }
+       ]
+    }
+  ]
+}
