@@ -2,7 +2,7 @@
   "pageName": "Home",
   "children": [
     {
-       "id":1,
+       "id":"id_1",
        "componentId":"section",
        "props":{
           
@@ -15,7 +15,7 @@
        },
        "children":[
           {
-             "id":3,
+             "id":"id_3",
              "componentId":"button",
              "props":{
                 "text":"Button 1"
