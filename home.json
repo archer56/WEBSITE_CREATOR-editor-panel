@@ -14,22 +14,38 @@
           "height":10
        },
        "children":[
-          {
-             "id":"id_3",
-             "componentId":"button",
-             "props":{
-                "text":"Button 1"
-             },
-             "layout":{
-                "x":2,
-                "y":0,
-                "width":2,
-                "height":3
-             },
-             "children":[
-                
-             ]
-          }
+        {
+           "id":"id_3",
+           "componentId":"button",
+           "props":{
+              "text":"Button 1"
+           },
+           "layout":{
+              "x":2,
+              "y":0,
+              "width":2,
+              "height":3
+           },
+           "children":[
+              
+           ]
+        },
+        {
+           "id":"id_4",
+           "componentId":"button",
+           "props":{
+              "text":"Button 2"
+           },
+           "layout":{
+              "x":6,
+              "y":0,
+              "width":1,
+              "height":3
+           },
+           "children":[
+              
+           ]
+        }
        ]
     }
   ]
