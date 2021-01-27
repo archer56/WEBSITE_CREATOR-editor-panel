@@ -5,7 +5,7 @@
        "id":"id_1",
        "componentId":"section",
        "props":{
-          
+         "backgroundColor": "#9292f1"
        },
        "layout":{
           "x":1,
