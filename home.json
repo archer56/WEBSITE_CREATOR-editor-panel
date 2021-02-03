@@ -10,7 +10,7 @@
        "layout":{
           "x":1,
           "y":1,
-          "width":12,
+          "width":24,
           "height":10
        },
        "children":[
@@ -23,7 +23,7 @@
            "layout":{
               "x":2,
               "y":1,
-              "width":2,
+              "width":4,
               "height":1
            },
            "children":[]
@@ -37,7 +37,7 @@
            "layout":{
               "x":1,
               "y":3,
-              "width":1,
+              "width":2,
               "height":1
            },
            "children":[]
@@ -57,7 +57,7 @@
           "layout":{
              "x":5,
              "y":1,
-             "width":5,
+             "width":10,
              "height":5
           },
           "children": [
@@ -70,7 +70,7 @@
               "layout":{
                 "x":1,
                 "y":3,
-                "width":1,
+                "width":2,
                 "height":1
               },
               "children":[]
